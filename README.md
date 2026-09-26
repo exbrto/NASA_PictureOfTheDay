@@ -2,7 +2,7 @@ NASA Picture of the Day
 
 A simple front-end web app that uses NASA's Astronomy Picture of the Day (APOD) API to display a space image along with its title, date, and explanation.
 
-(./img/nasaAPI.png)
+[!Screenshot](./img/nasaAPI.png)
 
 How It Works
 The user picks a date (or loads today's picture).
